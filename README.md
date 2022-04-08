@@ -5,8 +5,9 @@ import random
 class TicTacToe:
 
     def __init__(self):
-        self.board = []
-
+        self.board = [] 
+        select alks;a
+      print(a)
     def create_board(self):
         for i in range(3):
             row = []
